@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ChartofAccounts>
+    <description>US - Retail store simple Chart of Accounts (LLC and Partnerships)</description>
+    <account>
+        <id>1000</id>
+        <description>Petty Cash</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>0</type>
+    </account>
+    <account>
+        <id>1020</id>
+        <description>Bank Account</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>0</type>
+    </account>
+    <account>
+        <id>1049</id>
+        <description>Paypal Account</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>0</type>
+    </account>
+  
+    <account>
+        <id>1100</id>
+        <description>Accounts Receivable</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>2</type>
+    </account>
+    <account>
+        <id>1110</id>
+        <description>Others Debtors</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>2</type>
+    </account>
+    <account>
+        <id>1150</id>
+        <description>Allowance for Doubtful Debt</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>2</type>
+    </account>
+    <account>
+        <id>1120</id>
+        <description>Signboard</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1130</id>
+        <description>Security System</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1140</id>
+        <description>Property and Equipment</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1160</id>
+        <description>Electrical Fittings</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1170</id>
+        <description>Computer & Software</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1180</id>
+        <description>Furniture & Fittings</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1190</id>
+        <description>Office Equipments</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account>
+    <account>
+        <id>1200</id>
+        <description>Inventory</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>4</type>
+    </account>
+    <account>
+        <id>1520</id>
+        <description>Accumulated Depreciation on Signboard</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account>
+    <account>
+        <id>1530</id>
+        <description>Accumulated Depreciation on Security System</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account>
+     
+    <account>
+        <id>1540</id>
+        <description>Accum. Dep - Prop and Equip</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account>
+    <account>
+        <id>1560</id>
+        <description>Accumulated Depreciation on Electrical Fittings</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account> 
+    <account>
+        <id>1570</id>
+        <description>Accumulated Depreciation on Computer & Software</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account> 
+    <account>
+        <id>1580</id>
+        <description>Accumulated Depreciation on Furniture & Fittings</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account> 
+    <account>
+        <id>1590</id>
+        <description>Accumulated Depreciation on Office Equipments</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>10</type>
+    </account>
+        
+    <account>
+        <id>2000</id>
+        <description>Accounts Payable</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>20</type>
+    </account>
+        
+    <account>
+        <id>2110</id>
+        <description>Others Creditor</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account>
+        
+    <account>
+        <id>2120</id>
+        <description>Accrual - Payroll</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2130</id>
+        <description>Accrual - EPF</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2140</id>
+        <description>Accrual - SOSCO</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2150</id>
+        <description>Pre-invoicing (Advance Sales)</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2160</id>
+        <description>Director Account</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>8</type>
+    </account> 
+    <account>
+        <id>2310</id>
+        <description>GST Tax</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2316</id>
+        <description>GST Control Account</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2320</id>
+        <description>Deductons Payable</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2380</id>
+        <description>Income Taxes Payable</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2400</id>
+        <description>Customer Deposits</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2500</id>
+        <description>Current Portion Long-Term Debt</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    <account>
+        <id>2700</id>
+        <description>Long Term Debt - Noncurrent</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>22</type>
+    </account> 
+    
+    
+    <account>
+        <id>3100</id>
+        <description>Owners Contribution</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>42</type>
+    </account>
+    
+    <account>
+        <id>3110</id>
+        <description>Share Capital</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>40</type>
+    </account> 
+    
+    <account>
+        <id>3200</id>
+        <description>Owners Draw</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>42</type>
+    </account>
+    
+
+  
+    <account>
+        <id>3800</id>
+        <description>Retained Earnings</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>44</type>
+    </account>
+    <account>
+        <id>4000</id>
+        <description>Sales Income</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>30</type>
+    </account>
+    <account>
+        <id>4100</id>
+        <description>Interest Income</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>30</type>
+    </account>
+    <account>
+        <id>4200</id>
+        <description>Finance Charge Income</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>30</type>
+    </account>
+    <account>
+        <id>4300</id>
+        <description>Other Income</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>30</type>
+    </account>
+    <account>
+        <id>4900</id>
+        <description>Sales Discounts</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>30</type>
+    </account>
+    <account>
+        <id>5000</id>
+        <description>Cost of Sales</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>32</type>
+    </account>
+    <account>
+        <id>5100</id>
+        <description>Cost of Sales - Freight</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>32</type>
+    </account>
+    <account>
+        <id>5300</id>
+        <description>Cost of Sales - Meals</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>32</type>
+    </account>
+    <account>
+        <id>5400</id>
+        <description>Cost of Sales - Salary &amp; Wage</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>32</type>
+    </account>
+    <account>
+        <id>5900</id>
+        <description>Inventory Adjustments</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>32</type>
+    </account>
+    <account>
+        <id>6000</id>
+        <description>Accomodation Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6010</id>
+        <description>Accounting Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6020</id>
+        <description>Advertisement Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6030</id>
+        <description>Advertising Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6040</id>
+        <description>Allowance</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6050</id>
+        <description>Audit Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6060</id>
+        <description>Bank Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6070</id>
+        <description>Bonus</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6080</id>
+        <description>Business Registration Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6090</id>
+        <description>Commissions & Fees Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6100</id>
+        <description>Compensation/Refund</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6110</id>
+        <description>Courier & Postage Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account> 
+    <account>
+        <id>6120</id>
+        <description>Credit Card Commission</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6130</id>
+        <description>Credit Card Machine Rental</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account> 
+    <account>
+        <id>6140</id>
+        <description>Deposit Forfeited</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6150</id>
+        <description>Director Advance</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6160</id>
+        <description>Director Remuneration</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6170</id>
+        <description>Discount</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6180</id>
+        <description>Entertainment</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6190</id>
+        <description>Electricity Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6200</id>
+        <description>Employee Benefit Programs Expe</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6210</id>
+        <description>EPF Contribution</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6220</id>
+        <description>Equipment Rental Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6230</id>
+        <description>Filling Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6240</id>
+        <description>Franchise Fees Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6250</id>
+        <description>Freelance Commission</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6260</id>
+        <description>Freight Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6270</id>
+        <description>Gift & Contribution</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6280</id>
+        <description>GST Bad Debt</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6290</id>
+        <description>Handphone Bill</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6300</id>
+        <description>Income Tax Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6310</id>
+        <description>Installation Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6320</id>
+        <description>Insurance</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>     
+    <account>
+        <id>6330</id>
+        <description>Insurance Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6340</id>
+        <description>Internet Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6350</id>
+        <description>License Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6360</id>
+        <description>Lawyer Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6370</id>
+        <description>Maintenance & Repairs Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6380</id>
+        <description>Marketing Expenses</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6390</id>
+        <description>Medical Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6400</id>
+        <description>Newspaper & Periodical</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6410</id>
+        <description>Office Rental</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    
+    <account>
+        <id>6420</id>
+        <description>Office Supplies Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6430</id>
+        <description>Other Office Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    
+    <account>
+        <id>6440</id>
+        <description>Other Taxes Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6450</id>
+        <description>Parking & Tolls</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6460</id>
+        <description>Payroll Tax Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6470</id>
+        <description>Penalty Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6480</id>
+        <description>Petrol - GST Exempted</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    
+    <account>
+        <id>6490</id>
+        <description>Petrol - GST Standard Rated </description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6500</id>
+        <description>Preliminary Expenses</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6510</id>
+        <description>Pre-Trading Expenses</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6520</id>
+        <description>Printing & Stationeries</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6530</id>
+        <description>Professional Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6540</id>
+        <description>Registration Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6550</id>
+        <description>Rent or Lease Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6560</id>
+        <description>Rental Expenses</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    
+    <account>
+        <id>6570</id>
+        <description>Road Tax & Insurance</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6580</id>
+        <description>Salary & Wages Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6590</id>
+        <description>Secretarial Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6600</id>
+        <description>Seminar & Training Fees</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6610</id>
+        <description>Service Charge Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6620</id>
+        <description>Service Tax</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6630</id>
+        <description>Software License Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6640</id>
+        <description>Software Access Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6650</id>
+        <description>Software Maintenance Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6660</id>
+        <description>SOSCO Contribution</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6670</id>
+        <description>Staff Benefits</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6680</id>
+        <description>Staff Commissions</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6690</id>
+        <description>Staff Incentives</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6700</id>
+        <description>Staff Refreshments</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6710</id>
+        <description>Staff Salary & Wages</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6720</id>
+        <description>Staff-Part Time Salary & Wages</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6730</id>
+        <description>Staff Insurance</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6740</id>
+        <description>Stamp Duty</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6750</id>
+        <description>Subscription & Membership</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6760</id>
+        <description>Sundry Expenses</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6770</id>
+        <description>Tax Computation Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6780</id>
+        <description>Telephone Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6790</id>
+        <description>Telephone - Fax Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6800</id>
+        <description>Transportation Fee</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6810</id>
+        <description>Travelling Outstation</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6820</id>
+        <description>Travelling Oversea/Outstation</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6830</id>
+        <description>Travelling Refreshment (Overseas)</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6840</id>
+        <description>Upkeep of Computer & Software</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>    
+    <account>
+        <id>6850</id>
+        <description>Upkeep of Motor Vehicle</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>6860</id>
+        <description>Upkeep of Office Equipment</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6870</id>
+        <description>Utilities Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6880</id>
+        <description>Water Chargese</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>6890</id>
+        <description>Website Charges</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>7000</id>
+        <description>Over and Short Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    <account>
+        <id>7050</id>
+        <description>Depreciation Expense</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>7100</id>
+        <description>Gain/Loss - Sale of Assets Exp</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>7150</id>
+        <description>Gain / (Loss) on Forex</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+    <account>
+        <id>8100</id>
+        <description>Rounding</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+    
+     <account>
+        <id>8200</id>
+        <description>Unpaid Expense Claims</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+     <account>
+        <id>8300</id>
+        <description>Historical Adjustment</description>
+        <heading>0</heading>
+        <primary></primary>
+        <type>34</type>
+    </account>
+
+</ChartofAccounts>
